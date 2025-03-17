@@ -77,7 +77,7 @@ def get_students_by_id(id):
 
 if __name__ == '__main__':
     todo.run(
-        host='127.0.0.1',
-        port=5010,
         debug=True
     )
+
+    
